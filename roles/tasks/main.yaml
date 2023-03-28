@@ -1,6 +1,6 @@
 - name: ------create a sample dir --------------------
   file:
-      path: /home/awx_test
+      path: /home/awx_test2
       state: directory
       owner: root
       group: root
